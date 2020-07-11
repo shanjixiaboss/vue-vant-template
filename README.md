@@ -1,5 +1,3 @@
-# vant-demo
-
 ## Project setup
 ```
 yarn install
